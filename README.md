@@ -154,7 +154,7 @@
 <p align="center">
 
    <a href="mailto:dnyaneshwarinikam1112@gmail.com">
-    <img src="https://img.shields.io/badge/Email_dnyaneswarinikam1112@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email_dnyaneshwarinikam1112@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/dnyaneshwarinikam/">
