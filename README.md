@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">🚀 Hey, I'm <span style="color:#00eaff;">Dnyaneshwari</span> 👋</h1>
-<h3 align="center">Network & DevOps Engineer | CCNA | AWS | Azure | Automation</h3>
+<h3 align="center">Network & DevOps Engineer | CCNA | MCSA | AWS | Azure | Automation</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E7FF&center=true&vCenter=true&width=600&lines=Network+%26+DevOps+Engineer;CCNA;Cloud+(AWS+%2F+Azure)+Engineer;Linux+%7C+Automation+%7C+Shell+Scripting;Always+Learning+New+Things+🚀">
